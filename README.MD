@@ -39,7 +39,7 @@ A Docker container solution for running Windows 10 with KVM acceleration, provid
 ```bash
 git clone https://github.com/ytneil7/window10xrdp
 
-cd windows10vm
+cd window10xrdp
 
 
 docker build -t windows10-vm .
